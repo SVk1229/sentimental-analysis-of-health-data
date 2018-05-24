@@ -1,0 +1,57 @@
+sno,SURVEY_QUESTION_TEXT,SURVEY_QUESTION,SURVEY_RESPONSE_SENTIMENT,SURVEY_RECEIVED_DATE,DISCHARGE_DATE,DISCHARGE_SERVICE_KEY,DISCHARGE_SERVICE,NURSING_UNIT,SEX,AGE,SURVEY_RESPONSE_VALUE,DISCHARGE_MONTH_KEY,MRN
+1,Physician Section Comments,SECTPHYS,Mixed,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Very nice - not enough time.,222,0205315
+2,Personal Issues Section Comments,SECTPERS,NA,2/13/2016,2/4/2016,139,"Rehabilitation, General",n/a,F,84,ALL HELPFUL CONSISTENTLY,222,0524566
+3,Psychology Section Comments,SECTPSYC,NA,2/13/2016,2/4/2016,139,"Rehabilitation, General",n/a,F,84,PSYCHOLOGIST EVEN GOT ME HEARING ASSIST MADE ALL THE DIFFERENCE,222,0524566
+4,Name(s) of any staff member(s) that impressed you during your visit:,OPEN9,NA,2/26/2016,2/2/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD12,F,54,"*Marcia PCA, *Kate nurse.",222,10002007
+5,Name(s) of any staff member(s) that impressed you during your visit:,OPEN9,NA,2/22/2016,2/4/2016,109,"Medicine, General Internal Medicine",17E,M,59,Don't recall.  Everyone was professional and compassionate -,222,0573612
+6,Name(s) of any staff member(s) that impressed you during your visit:,OPEN9,NA,2/23/2016,2/4/2016,116,"Ob-Gyn, Obstetrics",13W,F,36,"Nurses were AMAZING & very HELPFUL.  The follow-up call was extremely HELPFUL, too.",222,10223312
+7,Name(s) of any staff member(s) that impressed you during your visit:,OPEN9,NA,2/23/2016,2/3/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD11,F,59,Nurse aid - *Karen & *Frankie all the nurses of shift.,222,11341407
+8,Occupational Therapy Section Comments,SECTOT,NA,2/13/2016,2/4/2016,139,"Rehabilitation, General",n/a,F,84,SUPERIOR,222,0524566
+9,"If you could change one thing about our Inpatient facilities, what would that be?",OPEN10,NA,2/23/2016,2/4/2016,116,"Ob-Gyn, Obstetrics",13W,F,36,Bathroom/shower experience in the hallway.,222,10223312
+10,Name(s) of any staff member(s) that impressed you during your visit:,OPEN9,NA,2/22/2016,2/3/2016,142,"Surgery, General Surgery",13E,F,18,"All nurses were very kind and friendly, caring and understanding.",222,5311725
+11,Nursing Section Comments,SECTNURS,NA,2/13/2016,2/4/2016,139,"Rehabilitation, General",n/a,F,84,###############################################################################################################################################################################################################################################################,222,0524566
+12,Name(s) of any staff member(s) that impressed you during your visit:,OPEN9,NA,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Were all very pleasant can't remember names.,222,0205315
+13,Overall Assessment Section Comments,SECTOVEA,NA,2/13/2016,2/4/2016,139,"Rehabilitation, General",n/a,F,84,MORE COMFORTABLE AFTER .MOVED TO ROOM WITHOUT ROOMATE WHOSE VISITORS WERE CONSTANT AND MANY,222,0524566
+14,"If you could change one thing about our Inpatient facilities, what would that be?",OPEN10,NA,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Nothing.,222,0205315
+15,Name(s) of any staff member(s) that impressed you during your visit:,OPEN9,NA,2/23/2016,2/5/2016,109,"Medicine, General Internal Medicine",n/a,M,76,A daytime nurse named *Katie.,222,0315212
+16,Physical Therapy Section Comments,SECTPT,NA,2/13/2016,2/4/2016,139,"Rehabilitation, General",n/a,F,84,"WONDERFUL. SKILLFUL BRITTANY TERRIFIC, PATIENT JOHN BOTH BEYOND PRAISE",222,0524566
+17,Rehabilitation Doctor Section Comments,SECTREDR,NA,2/13/2016,2/4/2016,139,"Rehabilitation, General",n/a,F,84,"THE BEST,MOST PAIENT,TACTFUL, AND PROFESSIONAL: CLEARLY EXPLAINING AND LISTENING SERIOUSLY TOME.",222,0524566
+18,"If you could change one thing about our Inpatient facilities, what would that be?",OPEN10,NA,2/23/2016,2/3/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD11,F,59,Nothing at this time.,222,11341407
+19,Name(s) of any staff member(s) that impressed you during your visit:,OPEN9,NA,2/23/2016,2/6/2016,113,"Neurology, General",12E,M,88,I do not know any names.,222,11414052
+20,Discharge Section Comments,SECTDISC,NA,2/13/2016,2/4/2016,139,"Rehabilitation, General",n/a,F,84,HELPFUL TO THE MAX.,222,0524566
+21,Name(s) of any staff member(s) that impressed you during your visit:,OPEN9,NA,2/23/2016,2/5/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD12,M,66,To many to remember all awesome.,222,11389144
+22,"If you could change one thing about our Inpatient facilities, what would that be?",OPEN10,NA,2/22/2016,2/4/2016,109,"Medicine, General Internal Medicine",17E,M,59,"Stay healthy and not need to be there, nothing personal, I assure you.",222,0573612
+23,Meals Section Comments,SECTMEAL,Negative,2/23/2016,2/5/2016,109,"Medicine, General Internal Medicine",n/a,M,76,I had kosher meals which very poor quality.,222,0315212
+24,Overall Assessment Section Comments,SECTOVER,Negative,2/23/2016,2/4/2016,116,"Ob-Gyn, Obstetrics",13W,F,36,Hallway bathroom - soap dispenser was broken & heavy soap fell on my foot & the overhead shower head would not stay on the wall or pole so I had to hold it during the entire shower.,222,10223312
+25,Room Section Comments,SECTROOM,Negative,2/23/2016,2/4/2016,116,"Ob-Gyn, Obstetrics",13W,F,36,1st night was very noisy.,222,10223312
+26,Physician Section Comments,SECTPHYS,Negative,2/23/2016,2/4/2016,116,"Ob-Gyn, Obstetrics",13W,F,36,Epidural was administered 3-4x's.,222,10223312
+27,Visitors and Family Section Comments,SECTVNF,Negative,2/22/2016,2/3/2016,142,"Surgery, General Surgery",13E,F,18,"My mom stayed with me overnight and had to sleep on a plain hard chair when asking if one hospital has any couches they say no, but then after sleeping all night on chair when she leaves the room she sees a nice couch.",222,5311725
+28,Discharge Section Comments,SECTDISC,Neutral,2/23/2016,2/4/2016,116,"Ob-Gyn, Obstetrics",13W,F,36,No mention of incontinence.,222,10223312
+29,Admission Section Comments,SECTADMI,Neutral,2/23/2016,2/4/2016,116,"Ob-Gyn, Obstetrics",13W,F,36,My induction was scheduled at midnight.  I arrived about 11:40 p.m. & was not permitted to be admitted until midnight.,222,10223312
+30,Nurses Section Comments,SECTNURS,Positive,2/23/2016,2/5/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD12,M,66,"The nurses etc., made you feel that everyone one knew me like home.",222,11389144
+31,Admission Section Comments,SECTADMI,Positive,2/23/2016,2/5/2016,109,"Medicine, General Internal Medicine",n/a,M,76,Very smooth.,222,0315212
+32,Meals Section Comments,SECTMEAL,Positive,2/24/2016,2/4/2016,114,Neurosurgery,12W,M,70,Multiple menu options were good.,222,11325128
+33,Physician Section Comments,SECTPHYS,Positive,2/23/2016,2/3/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD11,F,59,Highest standard of professionalism.,222,11341407
+34,Tests and Treatment Section Comments,SECTTNT,Positive,2/23/2016,2/3/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD11,F,59,Highly skilled.,222,11341407
+35,Emergency Room Section Comments,SECTER,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Very satisfied! #4.  Not long.,222,0205315
+36,Visitors and Family Section Comments,SECTVNF,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Fine.,222,0205315
+37,Personal Issues Section Comments,SECTPERS,Positive,2/23/2016,2/6/2016,113,"Neurology, General",12E,M,88,#2.  No pain.,222,11414052
+38,Meals Section Comments,SECTMEAL,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Food was good.,222,0205315
+39,Nurses Section Comments,SECTNURS,Positive,2/22/2016,2/4/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD10,F,71,This was my 3rd hospital experience and everyone tried to be pleasant.  Had patience.,222,9299634
+40,Nurses Section Comments,SECTNURS,Positive,2/22/2016,2/4/2016,109,"Medicine, General Internal Medicine",17E,M,59,Very able staff.,222,0573612
+41,Room Section Comments,SECTROOM,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Very good.,222,0205315
+42,Personal Issues Section Comments,SECTPERS,Positive,2/23/2016,2/3/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD11,F,59,"PT, OT & social workers were so attentive & professional.",222,11341407
+43,Admission Section Comments,SECTADMI,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Very good.,222,0205315
+44,Physician Section Comments,SECTPHYS,Positive,2/24/2016,2/4/2016,114,Neurosurgery,12W,M,70,Didn't see my primary surgeon after procedures but house staff checked in often.,222,11325128
+45,Nurses Section Comments,SECTNURS,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Very satisfied. #9.  Excellent.,222,0205315
+46,Tests and Treatment Section Comments,SECTTNT,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Fine.,222,0205315
+47,Nurses Section Comments,SECTNURS,Positive,2/24/2016,2/4/2016,114,Neurosurgery,12W,M,70,They handled my personal needs with great care.,222,11325128
+48,Meals Section Comments,SECTMEAL,Positive,2/22/2016,2/4/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD10,F,71,Was on gluten-free diet and confirmed that I WAS gluten sensitive.  Symptom was a runny nose.,222,9299634
+49,Emergency Room Section Comments,SECTER,Positive,2/22/2016,2/4/2016,109,"Medicine, General Internal Medicine",17E,M,59,Courteous & efficient.,222,0573612
+50,Overall Assessment Section Comments,SECTOVER,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Very good.,222,0205315
+51,Personal Issues Section Comments,SECTPERS,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Fine.,222,0205315
+52,Admission Section Comments,SECTADMI,Positive,2/23/2016,2/3/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD11,F,59,Exceeded expectations.,222,11341407
+53,Emergency Room Section Comments,SECTER,Positive,2/23/2016,2/5/2016,109,"Medicine, General Internal Medicine",n/a,M,76,Very professional and thorough.,222,0315212
+54,Discharge Section Comments,SECTDISC,Positive,2/22/2016,2/1/2016,107,"Medicine, Cardiology",HCC11,F,87,Fine.,222,0205315
+55,Room Section Comments,SECTROOM,Positive,2/24/2016,2/4/2016,114,Neurosurgery,12W,M,70,Shared room with another post-surgical patient - _____ from our visitors was respectful to one another.,222,11325128
+56,Nurses Section Comments,SECTNURS,Positive,2/23/2016,2/3/2016,118,"Ortho Surg, Orthopaedic Surgery",HJD11,F,59,"Warm, courteous & professional.",222,11341407
